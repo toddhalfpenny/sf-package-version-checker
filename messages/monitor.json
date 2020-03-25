@@ -1,0 +1,4 @@
+{
+    "commandDescription": "Returns status of latest Package Version creation request",
+    "errorNoOrgResults": "No results found for the org '%s'."
+  }
