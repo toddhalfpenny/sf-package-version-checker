@@ -1,5 +1,5 @@
 {
-  "name": "pkgVsnChkr",
+  "name": "sf-package-version-checker",
   "description": "Checks on status of a package version that is being created",
   "version": "0.0.0",
   "author": "Todd Halfpenny @toddhalfpenny",
@@ -39,7 +39,10 @@
   ],
   "homepage": "https://github.com/toddhalfpenny/pkgVsnChkr",
   "keywords": [
-    "sfdx-plugin"
+    "sfdx-plugin",
+    "Salesforce",
+    "2GP",
+    "SFDX"
   ],
   "license": "MIT",
   "oclif": {

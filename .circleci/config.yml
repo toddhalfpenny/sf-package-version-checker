@@ -46,7 +46,7 @@ jobs:
 
 workflows:
   version: 2
-  "pkgVsnChkr":
+  "sf-package-version-checker":
     jobs:
       - node-latest
       - node-8
