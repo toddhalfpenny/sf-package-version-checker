@@ -14,6 +14,12 @@ Checks on status of a package version that is being created
 
 
 <!-- install -->
+## Install
+```
+sfdx plugins:install sf-package-version-checker
+```
+
+<!-- install -->
 
 <!-- commands -->
 * [`sfdx pkgvsn:monitor [--timeout <number>] [--targetdevhubusername <string>] [--json] [--loglevel trace|debug|info|warn|error|fatal|TRACE|DEBUG|INFO|WARN|ERROR|FATAL]`]()
