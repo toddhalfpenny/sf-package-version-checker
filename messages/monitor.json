@@ -1,4 +1,5 @@
 {
     "commandDescription": "Returns status of latest Package Version creation request",
-    "errorNoOrgResults": "No results found for the org '%s'."
+    "errorNoOrgResults": "No results found for the org '%s'.",
+    "timeoutFlagDescription": "Timeout (seconds). Default 1200 (20 minutes)"
   }
