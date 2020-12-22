@@ -10,7 +10,7 @@
     "@oclif/errors": "^1",
     "@salesforce/command": "^2",
     "@salesforce/core": "^2",
-    "node-notifier": "^6.0.0",
+    "node-notifier": "^8.0.1",
     "tslib": "^1"
   },
   "devDependencies": {
